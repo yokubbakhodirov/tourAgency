@@ -26,7 +26,12 @@ Postgresql database is used to store data.
 
 ## Usage as user
 When signing up, you enter your email, password which must be 4 characters at least, name, surname, phone number(full number e.g. +998901234567).
-After you sign in, you can choose and purchase tours. They are divided into three categories: excursion, rest, shopping. If you make three or more purchases, you can buy tours with discount. You can also view your purchased tours. When buying, you enter your card number which should be 12 numbers.
+
+After you sign in, you can choose and purchase tours. They are divided into three categories: excursion, rest, shopping. 
+If you make three or more purchases, you can buy tours with discount. You can also view your purchased tours. 
+When buying, you enter your card number which should be 12 numbers.
 
 ## Usage as admin
-After you sign in, you can view users, orders and tours, and you can also delete them. Moreover, you can add tours by providing its name, type(3 types described above), description, discount(0 if no discount), date, price and image path.
+After you sign in, you can view users, orders and tours, and you can also delete them.
+Moreover, you can add tours by providing its name, type(3 types described above), description,
+discount(0 if no discount), date, price and image path.
