@@ -1,7 +1,7 @@
 # tourAgency
 Tour agency website for purchasing tours. It was developed using Java Servlets, JSP, JDBC and Postgresql technologies
 
-The platform supports languages: English and Russian.
+The website supports languages: English and Russian.
 
 ## Database schema
 
